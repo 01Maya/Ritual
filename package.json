@@ -5,7 +5,7 @@
   "description": "",
   "license": "ISC",
   "author": "",
-  "type": "common.js",
+  "type": "module",
   "main": "postcss.config.js",
   "directories": {
     "lib": "lib"

@@ -1,5 +1,5 @@
 @import "tailwindcss";
-@config "../tailwind.config.js";
+@config "../tailwind.config.cjs";
 
 html { background: #f4f0e8; -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
 
