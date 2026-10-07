@@ -1,1 +1,1 @@
-# 🌿 Ritual — Supplement Wellness Landing Page
+# 🌿 Ritual — Supplement Wellness Landing Page 💊
