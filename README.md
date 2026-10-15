@@ -11,3 +11,5 @@ The experience combines editorial visual design with interactive product storyte
 
 The website presents Ritual's supplement experience through a clean, bold, and modern interface with strong typography and expressive visuals.  
 It guides users through product discovery, ingredients, science, testimonials, and FAQs using a structured storytelling flow.  
+Interactive elements such as the draggable capsule, smooth navigation, hover states, and animated sections make the experience engaging while keeping the UI minimal.
+
