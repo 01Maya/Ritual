@@ -9,3 +9,4 @@ The experience combines editorial visual design with interactive product storyte
 
 ## 📝 Description
 
+The website presents Ritual's supplement experience through a clean, bold, and modern interface with strong typography and expressive visuals.  
