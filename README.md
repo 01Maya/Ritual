@@ -18,3 +18,6 @@ Interactive elements such as the draggable capsule, smooth navigation, hover sta
 ---
 
 ## 🚀 Features
+
+- 📱 Fully responsive design
+
