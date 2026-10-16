@@ -26,3 +26,4 @@ Interactive elements such as the draggable capsule, smooth navigation, hover sta
 - 💊 Draggable capsule interaction
 - 🎞️ Smooth micro-interactions and transitions
 - 👥 Life-stage based product discovery
+- 🧪 Ingredient transparency section
