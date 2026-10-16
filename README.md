@@ -25,3 +25,4 @@ Interactive elements such as the draggable capsule, smooth navigation, hover sta
 - 🖱️ Interactive hover effects
 - 💊 Draggable capsule interaction
 - 🎞️ Smooth micro-interactions and transitions
+- 👥 Life-stage based product discovery
