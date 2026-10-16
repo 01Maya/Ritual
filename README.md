@@ -28,3 +28,4 @@ Interactive elements such as the draggable capsule, smooth navigation, hover sta
 - 👥 Life-stage based product discovery
 - 🧪 Ingredient transparency section
 - 🧾 Interactive ingredient receipt concept
+- 💬 Customer testimonial section
