@@ -22,4 +22,4 @@ Interactive elements such as the draggable capsule, smooth navigation, hover sta
 - 📱 Fully responsive design
 - 🧭 Smooth navigation between sections
 - ✨ Scroll and entrance animations
-
+- 🖱️ Interactive hover effects
