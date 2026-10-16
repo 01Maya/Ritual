@@ -24,3 +24,4 @@ Interactive elements such as the draggable capsule, smooth navigation, hover sta
 - ✨ Scroll and entrance animations
 - 🖱️ Interactive hover effects
 - 💊 Draggable capsule interaction
+- 🎞️ Smooth micro-interactions and transitions
