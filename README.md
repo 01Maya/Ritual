@@ -31,3 +31,5 @@ Interactive elements such as the draggable capsule, smooth navigation, hover sta
 - 💬 Customer testimonial section
 
 ---
+
+## Tech Stack
