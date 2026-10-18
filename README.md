@@ -38,3 +38,4 @@ Interactive elements such as the draggable capsule, smooth navigation, hover sta
 ## ⌨️ Tech Stack
 
 - **NextJs**
+- ** Tailwind Css**
