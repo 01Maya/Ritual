@@ -31,7 +31,7 @@ Interactive elements such as the draggable capsule, smooth navigation, hover sta
 - 💬 Customer testimonial section
 - 🧾 Interactive ingredient receipt concept
 - 💬 Customer testimonial section
-
+- ❓ Interactive FAQ accordion
   
 ---
 
