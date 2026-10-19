@@ -40,3 +40,4 @@ Interactive elements such as the draggable capsule, smooth navigation, hover sta
 - **NextJs**
 - **Tailwind Css**
 - **Shadcn Ui**
+- ** Framer motion**
