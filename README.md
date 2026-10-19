@@ -35,6 +35,8 @@ Interactive elements such as the draggable capsule, smooth navigation, hover sta
 - 🎯 Conversion-focused CTA sections
 - 📐 Consistent UI/UX spacing and hierarchy
 - 📱 Mobile-friendly layouts
+- ♿ Accessible navigation and interaction patterns
+
 
   
 ---
