@@ -36,7 +36,7 @@ Interactive elements such as the draggable capsule, smooth navigation, hover sta
 - 📐 Consistent UI/UX spacing and hierarchy
 - 📱 Mobile-friendly layouts
 - ♿ Accessible navigation and interaction patterns
-
+- 🌿 Premium editorial wellness aesthetic
 
   
 ---
