@@ -63,4 +63,4 @@ Creates a strong first impression with a clean and engaging layout.
 
 ### 💡 About Ritual
 Explains Ritual's approach to simple, transparent, and science-backed wellness.  
-
+Introduces the idea behind the brand and its products.
