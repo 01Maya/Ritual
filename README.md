@@ -74,3 +74,4 @@ Explains the capsule experience through an interactive visual.
 The draggable capsule adds an engaging way to explore the concept.
 
 ### 🧪 Ingredients
+Highlights the ingredients used in Ritual products with a focus on transparency.  
