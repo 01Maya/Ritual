@@ -70,3 +70,4 @@ Highlights different life stages and wellness needs supported by Ritual.
 Helps users quickly understand which products may fit their lifestyle.
 
 ### 💊 How It Works
+Explains the capsule experience through an interactive visual.  
