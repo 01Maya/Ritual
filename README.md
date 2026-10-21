@@ -43,9 +43,14 @@ Interactive elements such as the draggable capsule, smooth navigation, hover sta
 
 ## ⌨️ Tech Stack
 
-- **NextJs**
-- **Tailwind Css**
-- **Shadcn Ui**
-- **Framer motion**
+- **Next.js**
+- **React**
+- **JavaScript / JSX**
+- **Tailwind CSS**
+- **CSS**
+- **HTML5**
+- **Lucide Icons**
+- **npm**
+- **Vercel**
 
 ---
