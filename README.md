@@ -60,3 +60,6 @@ Interactive elements such as the draggable capsule, smooth navigation, hover sta
 ### 🏠 Hero
 Introduces Ritual with a bold headline, product visual, and clear call-to-action.  
 Creates a strong first impression with a clean and engaging layout.
+
+### 💡 About Ritual
+
