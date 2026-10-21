@@ -62,4 +62,5 @@ Introduces Ritual with a bold headline, product visual, and clear call-to-action
 Creates a strong first impression with a clean and engaging layout.
 
 ### 💡 About Ritual
+Explains Ritual's approach to simple, transparent, and science-backed wellness.  
 
