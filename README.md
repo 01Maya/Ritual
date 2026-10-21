@@ -54,3 +54,5 @@ Interactive elements such as the draggable capsule, smooth navigation, hover sta
 - **Vercel**
 
 ---
+
+## 🧩 Sections
