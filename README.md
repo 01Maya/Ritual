@@ -66,3 +66,4 @@ Explains Ritual's approach to simple, transparent, and science-backed wellness.
 Introduces the idea behind the brand and its products.
 
 ### 👥 Who It's For
+Highlights different life stages and wellness needs supported by Ritual.  
