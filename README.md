@@ -71,3 +71,4 @@ Helps users quickly understand which products may fit their lifestyle.
 
 ### 💊 How It Works
 Explains the capsule experience through an interactive visual.  
+The draggable capsule adds an engaging way to explore the concept.
