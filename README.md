@@ -87,6 +87,6 @@ Creates a clear next step for visitors interested in the products.
 
 ### ❓ FAQ
 Answers common questions about Ritual and its products.  
-
+Uses an interactive accordion to keep information organized and accessible.
 
 ---
