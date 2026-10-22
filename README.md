@@ -79,6 +79,6 @@ Presents product information in a clear and easy-to-understand format.
 
 ### 💬 Testimonials
 Showcases customer experiences and feedback about Ritual products.  
-
+Builds trust through simple and authentic member stories.
 
 ---
