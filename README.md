@@ -85,4 +85,6 @@ Builds trust through simple and authentic member stories.
 Encourages users to begin their daily Ritual with a focused CTA.  
 Creates a clear next step for visitors interested in the products.
 
+### ❓ FAQ
+
 ---
