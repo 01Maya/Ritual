@@ -78,6 +78,7 @@ Highlights the ingredients used in Ritual products with a focus on transparency.
 Presents product information in a clear and easy-to-understand format.
 
 ### 💬 Testimonials
+Showcases customer experiences and feedback about Ritual products.  
 
 
 ---
