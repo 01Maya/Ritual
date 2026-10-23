@@ -91,6 +91,6 @@ Uses an interactive accordion to keep information organized and accessible.
 
 ### 🌿 Footer
 Provides important navigation, newsletter signup, and supporting links.  
-
+Finishes the experience with a clean and structured footer.
 
 ---
