@@ -90,6 +90,7 @@ Answers common questions about Ritual and its products.
 Uses an interactive accordion to keep information organized and accessible.
 
 ### 🌿 Footer
+Provides important navigation, newsletter signup, and supporting links.  
 
 
 ---
