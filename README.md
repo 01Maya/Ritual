@@ -96,3 +96,5 @@ Finishes the experience with a clean and structured footer.
 ---
 
 ## 🔗 Live Preview
+
+https://rituals1.vercel.app/
