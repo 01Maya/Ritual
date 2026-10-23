@@ -100,3 +100,5 @@ Finishes the experience with a clean and structured footer.
 https://rituals1.vercel.app/
 
 ---
+
+## 🖼️ Screenshot
