@@ -104,3 +104,5 @@ https://rituals1.vercel.app/
 ## 🖼️ Screenshot
 
 ---
+
+## ⚙️ Installation
