@@ -126,3 +126,6 @@ npm install
 npm run dev
 ```
 
+### 4. Open in your browser
+
+
