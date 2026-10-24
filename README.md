@@ -141,3 +141,9 @@ Build the project for production:
 ```bash
 npm run build
 ```
+
+Start the production server:
+
+```bash
+npm start
+```
