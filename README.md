@@ -109,3 +109,7 @@ https://rituals1.vercel.app/
 
 ### 1. Clone the repository
 
+```bash
+git clone https://github.com/01Maya/Ritual.git
+cd Ritual
+```
