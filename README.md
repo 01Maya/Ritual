@@ -128,4 +128,6 @@ npm run dev
 
 ### 4. Open in your browser
 
-
+```text
+http://localhost:3000
+```
