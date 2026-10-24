@@ -140,10 +140,11 @@ Build the project for production:
 npm run build
 ```
 
----
-
 Start the production server:
 
 ```bash
 npm start
 ```
+
+---
+
