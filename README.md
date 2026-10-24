@@ -113,3 +113,7 @@ https://rituals1.vercel.app/
 git clone https://github.com/01Maya/Ritual.git
 cd Ritual
 ```
+
+### 2. Install dependencies
+
+
