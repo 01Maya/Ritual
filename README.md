@@ -133,3 +133,11 @@ npm run dev
 ```text
 http://localhost:3000
 ```
+
+## 🏗️ Production Build
+
+Build the project for production:
+
+```bash
+npm run build
+```
