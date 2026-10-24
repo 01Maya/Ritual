@@ -126,8 +126,6 @@ npm install
 npm run dev
 ```
 
----
-
 ### 4. Open in your browser
 
 ```text
@@ -141,6 +139,8 @@ Build the project for production:
 ```bash
 npm run build
 ```
+
+---
 
 Start the production server:
 
