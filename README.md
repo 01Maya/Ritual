@@ -145,6 +145,9 @@ Start the production server:
 ```bash
 npm start
 ```
-
 ---
+
+## 🚀 Deployment
+
+The project is deployed using **Vercel**.
 
