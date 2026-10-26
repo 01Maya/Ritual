@@ -153,5 +153,7 @@ The project is deployed using **Vercel**.
 
 To deploy your own version:
 
+1. Fork or clone the repository.
+2. Install dependencies with `npm install`.
 
 
