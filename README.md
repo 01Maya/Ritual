@@ -151,3 +151,7 @@ npm start
 
 The project is deployed using **Vercel**.
 
+To deploy your own version:
+
+
+
