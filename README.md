@@ -155,5 +155,8 @@ To deploy your own version:
 
 1. Fork or clone the repository.
 2. Install dependencies with `npm install`.
-
+3. Connect the repository to Vercel.
+4. Set the framework to **Next.js**.
+5. Use `npm run build` as the build command.
+6. Deploy.
 
