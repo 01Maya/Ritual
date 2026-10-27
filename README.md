@@ -161,3 +161,7 @@ To deploy your own version:
 6. Deploy.
 
 ---
+
+## 🎨 Design Highlights
+
+- ✦ Editorial-inspired visual system
