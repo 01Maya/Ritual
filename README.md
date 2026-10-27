@@ -182,4 +182,6 @@ To deploy your own version:
 
 ---
 
-## 📌 Project Status
+## 📄 License
+
+This project is created for **design and development showcase purposes**.
