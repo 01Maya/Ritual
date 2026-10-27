@@ -166,3 +166,4 @@ To deploy your own version:
 
 - ✦ Editorial-inspired visual system
 - ✦ Strong typographic hierarchy
+- ✦ Minimal and premium interface
