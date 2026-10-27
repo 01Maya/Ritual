@@ -181,3 +181,5 @@ To deploy your own version:
 ✦ Conversion-focused user journey
 
 ---
+
+## 📌 Project Status
