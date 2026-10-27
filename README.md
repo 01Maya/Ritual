@@ -185,3 +185,5 @@ To deploy your own version:
 ## 📄 License
 
 This project is created for **design and development showcase purposes**.
+
+---
