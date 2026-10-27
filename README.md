@@ -164,13 +164,13 @@ To deploy your own version:
 
 ## 🎨 Design Highlights
 
-- ✦ Editorial-inspired visual system
-- ✦ Strong typographic hierarchy
-- ✦ Minimal and premium interface
-- ✦ Purposeful animations
-- ✦ Interactive capsule experience
-- ✦ Clear product storytelling
-- ✦ Consistent spacing and responsive layouts
-- ✦ Conversion-focused user journey
+✦ Editorial-inspired visual system
+✦ Strong typographic hierarchy
+✦ Minimal and premium interface
+✦ Purposeful animations
+✦ Interactive capsule experience
+✦ Clear product storytelling
+✦ Consistent spacing and responsive layouts
+✦ Conversion-focused user journey
 
 ---
