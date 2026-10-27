@@ -165,3 +165,4 @@ To deploy your own version:
 ## 🎨 Design Highlights
 
 - ✦ Editorial-inspired visual system
+- ✦ Strong typographic hierarchy
