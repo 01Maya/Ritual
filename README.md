@@ -187,3 +187,5 @@ To deploy your own version:
 This project is created for **design and development showcase purposes**.
 
 ---
+
+## Author
